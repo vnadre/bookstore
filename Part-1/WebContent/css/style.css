@@ -1,0 +1,47 @@
+@charset "ISO-8859-1";
+/**
+ * Home style style sheet 
+ */
+.header {
+	background-color: #b5c7e5;
+	padding-bottom: 60px;
+    background: #eee;
+    height: 85px;
+    outline-style: inset;
+    outline-color: #a8a8ad;
+}
+
+.main {
+	background-color: #b5c7e5;
+	padding-right: 20px;
+	padding-top: 10px;
+    background: #eee;
+    height: 400px;
+    width: 200px;
+    outline-style: inset;
+    outline-color: #a8a8ad;    
+    
+}
+
+.image {
+	position: absolute;
+	left: 300px; 
+}
+
+.booktable {
+	position: absolute;
+	left: 300px;
+	top: 200px;
+	width: 200px;
+}
+
+
+.booktable {
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	}
+
+.body {
+	margin:0 auto;
+}

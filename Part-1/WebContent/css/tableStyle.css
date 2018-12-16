@@ -1,0 +1,15 @@
+/**
+ * Table style sheet 
+ */
+ table {
+	 border-collapse: collapse;
+    width: 90%;
+}
+tr:nth-child(even){background-color: #f2f2f2}
+
+tr:nth-child(odd){background-color: #DCEFFC}
+
+th {
+    background-color: #3E5C64;
+    color: white;
+}
